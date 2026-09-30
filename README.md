@@ -112,3 +112,9 @@ Every skill follows the same engine: no baseline, no build; exposure ends at a r
 | 98 | [Rebrand Rollout](skills/rebrand-rollout/SKILL.md) | Cross-channel | 5 Specialized & situational | Branded search held; AI engines using the new name |
 | 99 | [Platform Risk & FMEA Resilience](skills/platform-risk-fmea-resilience/SKILL.md) | Operations | 5 Specialized & situational | No channel > 40% of revenue; recovery time |
 | 100 | [Reputation Crisis Response](skills/reputation-crisis-response/SKILL.md) | Reputation | 5 Specialized & situational | Time to first response; rating recovery |
+
+---
+
+## License
+
+Licensed under the [PolyForm Noncommercial License 1.0.0](LICENSE) — free for personal learning & tinkering, school or research projects, and fully non-profit operations. Commercial use (selling the software, embedding it in commercial products, or using it at a for-profit job) requires written permission. © 2026 Jerid Wempen / TitanOne.
